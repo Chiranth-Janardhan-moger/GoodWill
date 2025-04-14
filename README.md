@@ -3,7 +3,7 @@ GoodWill is a project that connects donors with hospitals to facilitate blood do
 
 ## Overview
 This project consists of :
-1. **Frontend (React)**
+1. **Frontend (TypeScript)**
 ---
 ### Features:
 1. User Authentication & Points System
