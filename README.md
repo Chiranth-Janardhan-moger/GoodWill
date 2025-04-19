@@ -36,11 +36,7 @@ npm run dev
 
 ![Screenshot 2025-04-18 223511](https://github.com/user-attachments/assets/b971ee41-85bc-4746-9245-dfc0dcb71b00)
 
-![Screenshot 2025-04-18 223538](https://github.com/user-attachments/assets/18b3ada0-dc19-4817-bc59-f7099bf8f3d3)
 
-- Mobile Version
-
-![Screenshot 2025-04-14 164850](https://github.com/user-attachments/assets/49bd6c67-ed96-42e6-a4e9-38c8caa1b084) 
 
 
 
